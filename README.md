@@ -28,4 +28,4 @@
 
 ## 참고자료
 - https://dzlab.github.io/timeseries/2018/11/25/LSTM-FCN-pytorch-part-1/
-- Karim, F., Majumdar, S., Darabi, H., & Chen, S. (2017). LSTM fully convolutional networks for time series classification. IEEE access,6,
+- Karim, F., Majumdar, S., Darabi, H., & Chen, S. (2017). LSTM fully convolutional networks for time series classification. IEEE access, 6, 1662-1669.
