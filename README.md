@@ -19,3 +19,13 @@
 - visdom (train 및 test 결과 시각화)
 
 ## 기타사항
+- 본 프로젝트에 사용된 데이터는 외부에서 구입한 데이터로 배포할 수 없습니다.
+- 모델의 Input Data는 각종 센서로부터 받아온 시계열 데이터가 Pandas, Sklearn, torch.util.data.Dataload를 통해 (Batch size, Time step, Feature)로 변환됩니다.
+
+## 개발인원
+1. 정주호
+2. 방건호
+
+## 참고자료
+- https://dzlab.github.io/timeseries/2018/11/25/LSTM-FCN-pytorch-part-1/
+- Karim, F., Majumdar, S., Darabi, H., & Chen, S. (2017). LSTM fully convolutional networks for time series classification. IEEE access,6,
